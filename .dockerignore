@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and checkpoints
+logs/
+checkpoints/
+
+# Data
+data/raw/
+data/processed/
+
+# Jupyter checkpoints
+*.ipynb_checkpoints
+
+# VS Code config
+.vscode/
+.devcontainer/
+
+# Git
+.git
+.gitignore
+
+# OS / system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.tmp
