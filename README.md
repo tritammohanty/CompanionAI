@@ -20,6 +20,7 @@ This project explores how **parameter-efficient fine-tuning**, **memory augmenta
 ---
 
 ## 🏗 Repository Structure
+```bash
 .
 ├── app/
 │ ├── chat_backend.py # Backend pipeline
@@ -49,8 +50,7 @@ This project explores how **parameter-efficient fine-tuning**, **memory augmenta
 ├── Dockerfile
 ├── requirements.txt
 └── README.md
-
-
+```
 ---
 
 ## 🚀 Quick Start
