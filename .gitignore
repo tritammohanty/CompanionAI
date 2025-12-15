@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+
+# Virtual env
+venv/
+.env/
+.venv/
+
+# Jupyter
+notebooks/
+.ipynb_checkpoints/
+
+# HuggingFace cache
+.cache/
+huggingface/
+hf_cache/
+
+# Model checkpoints / adapters
+logs/
+checkpoints/
+*.bin
+*.pt
+*.safetensors
+
+# Data
+data/raw/
+data/processed/
+data/memory/
+
+# Memory files
+*.json
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker runtime artifacts
+docker-data/
+docker-volumes/
+*.log
